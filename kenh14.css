@@ -1,0 +1,33 @@
+section{
+	width: 1300px;
+
+}
+
+div section article 
+{
+	width: 500px;
+	height: 500px;
+	margin-right: 18px;
+	float: left;
+	
+
+}
+
+article{
+	width: 321px;
+	height: 300px;
+	margin-right:18px;
+	float: left;
+	padding-bottom: 20px;
+
+}
+
+a{
+	font-family: tahoma;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+
+}
+a:hover{
+	color: lightgray;
